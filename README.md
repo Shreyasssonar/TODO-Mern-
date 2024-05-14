@@ -17,7 +17,7 @@ Hello 👋, I'm Samiur Rahman Mukul. At this repository i will be build a `Compl
 ### 👨‍💻 Development with MERN Stack Todo Application
 
 - `Backend` - Node.js, Express.js & MongoDB database
-- `Frontend` - React.js, Redux.js, & Tailwind CSS
+- `Frontend` - React.js, Redux.js
 
 <!-- project directory & live preview link -->
 
